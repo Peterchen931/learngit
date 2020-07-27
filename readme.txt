@@ -1,1 +1,2 @@
-git is a version system
+git is not only a file system
+I am study it
